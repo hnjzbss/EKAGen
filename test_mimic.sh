@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+export CUDA_VISIBLE_DEVICES=1
+python main.py --batch_size 16 --image_size 300 --vocab_size 4253 --theta 0.4 --gamma 0.4 --beta 1.0 --delta 0.01 --dataset_name mimic_cxr --anno_path ../dataset/mimic_cxr/annotation.json --data_dir ../dataset/mimic_cxr/images300 --mode test --knowledge_prompt_path ./knowledge_path/knowledge_prompt_mimic.pkl --test_path ./weight_path/mimic_weight.pth
