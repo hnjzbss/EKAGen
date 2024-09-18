@@ -1,4 +1,4 @@
 # EKAGen
 Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation
 
-**The weights and data will be available soon.**
+Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
