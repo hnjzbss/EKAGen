@@ -57,9 +57,9 @@ MIMIC-CXR
 bash train_mimic.sh
 ```
 
-You can also directly download our trained models for inference from [IU X-Ray](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_weight.pth) and [MIMIC-CXR](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_weight.pth).
-
 ## 5) Test Models
+
+You can download our trained models for inference from [IU X-Ray](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_weight.pth) and [MIMIC-CXR](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_weight.pth).
 
 IU X-Ray
 ``` bash
