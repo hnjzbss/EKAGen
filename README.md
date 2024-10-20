@@ -8,4 +8,14 @@ Automatic radiology report generation can provide substantial advantages to clin
     <img src="docs/EKAGen-framework.png" alt="EKAGen 框架示意图" width="1000" />
 </p>
 
+# Get Started
+
+## 1) Requirement
+
+- Python 3.8.13
+- Pytorch 1.9.0
+- torchvision 0.10.0
+- CUDA 11.8
+- NVIDIA RTX 4090
+
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
