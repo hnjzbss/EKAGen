@@ -19,7 +19,7 @@ Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discr
 - CUDA 11.8
 - NVIDIA RTX 4090
 
-## 2) Data Preperation
+## 2) Data Preparation
 ### MIMIC-CXR
 - You must be a credential user defined in [PhysioNet](https://physionet.org/settings/credentialing/) to access the data.
 - Download chest X-rays from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and reports from [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) Database. 
