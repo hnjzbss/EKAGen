@@ -20,12 +20,14 @@ Automatic radiology report generation can provide substantial advantages to clin
 
 ## 2) Data Preperation
 ### MIMIC-CXR
-You should get the License first at physionet. Then you can download the original images at [MIMIC-CXR](https://physionet.org/content/mimic-cxr-jpg/2.0.0/).
+You must be a credential user defined in PhysioNet to access the data.
+Download chest X-rays from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and reports from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr/2.0.0/) Database.
    
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
 
 ## Citation
 
+If you find this work useful in your research, please cite:
 ```tex
 @InProceedings{Bu_2024_CVPR,
     author    = {Bu, Shenshen and Li, Taiji and Yang, Yuedong and Dai, Zhiming},
