@@ -27,6 +27,16 @@ Download chest X-rays from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-c
 
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
 
+## 3) Train Models
+MIMIC-CXR
+``` bash
+bash train_mimic.sh
+```
+IU X-Ray
+``` bash
+bash bash train_iu.sh
+```
+
 ## Citation
 
 If you find this work useful in your research, please cite:
