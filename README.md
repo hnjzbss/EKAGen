@@ -23,3 +23,16 @@ Automatic radiology report generation can provide substantial advantages to clin
 You should get the License first at physionet. Then you can download the original images at [MIMIC-CXR](https://physionet.org/content/mimic-cxr-jpg/2.0.0/).
    
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
+
+## Citation
+
+```tex
+@InProceedings{Bu_2024_CVPR,
+    author    = {Bu, Shenshen and Li, Taiji and Yang, Yuedong and Dai, Zhiming},
+    title     = {Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {14194-14204}
+}
+```
