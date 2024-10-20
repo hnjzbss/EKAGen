@@ -61,7 +61,6 @@ You can also directly download our trained models for inference from [IU X-Ray](
 
 ## 5) Test Models
 
-```
 IU X-Ray
 ``` bash
 bash test_iu.sh
