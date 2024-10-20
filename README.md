@@ -28,7 +28,7 @@ Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discr
 - You can download the processed reports and images for IU X-Ray by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
 
 ## 3) Download Model Weights and Knowledge Base
-* Download the following model weights.
+* Download the following model weights:
     | Model | Publicly Available |
     | ----- | ------------------- |
     | DiagnosisBot | [diagnosisbot.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/diagnosisbot.pth) |
@@ -36,7 +36,7 @@ Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discr
     | IU X-Ray Teacher Model | [iu_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_t_model.pth) |
     | MIMIC-CXR Teacher Model | [mimic_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_t_model.pth) |
 
-* Download the following knowledge base and attention maps.
+* Download the following knowledge base and attention maps:
     | Item | Publicly Available |
     | ----- | ------------------- |
     | IU X-Ray Knowledge Base | [knowledge_prompt_iu.pkl](https://huggingface.co/ShenshenBu/EKAGen/blob/main/knowledge_prompt_iu.pkl) |
@@ -88,4 +88,4 @@ If you find this work useful in your research, please cite:
 
 ## Contact Information
 
-If you have any suggestion or question, you can contact us by: bushsh@mail2.sysu.edu.cn. Thanks for your attention!
+If you have any suggestions or questions, you can contact us by: bushsh@mail2.sysu.edu.cn. Thank you for your attention!
