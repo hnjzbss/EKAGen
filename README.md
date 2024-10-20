@@ -22,8 +22,11 @@ Automatic radiology report generation can provide substantial advantages to clin
 
 ## 2) Data Preperation
 ### MIMIC-CXR
-You must be a credential user defined in [PhysioNet](https://physionet.org/settings/credentialing/) to access the data.
-Download chest X-rays from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and reports from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr/2.0.0/) Database. You can also download the processed report for MIMIC-CXR by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
+- You must be a credential user defined in [PhysioNet](https://physionet.org/settings/credentialing/) to access the data.
+- Download chest X-rays from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/) and reports from [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr/2.0.0/) Database. 
+
+### IU X-Ray
+- You can download the processed reports and images for IU X-Ray by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
 
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
 
