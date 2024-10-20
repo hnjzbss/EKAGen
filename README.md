@@ -28,6 +28,23 @@ Automatic radiology report generation can provide substantial advantages to clin
 ### IU X-Ray
 - You can download the processed reports and images for IU X-Ray by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
 
+## 3) Download Model Weights and Knowledge Base
+* Download the following model weights.
+    | Model | Publicly Available |
+    | ----- | ------------------- |
+    | DiagnosisBot | [diagnosisbot.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/diagnosisbot.pth) |
+    | ADM Weight | [MIMIC_best_weight.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/MIMIC_best_weight.pth) |
+    | IU X-Ray Teacher Model | [iu_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_t_model.pth) |
+    | MIMIC-CXR Teacher Model | [mimic_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_t_model.pth) |
+
+* Download the following knowledge base and attention maps.
+    | Item | Publicly Available |
+    | ----- | ------------------- |
+    | IU X-Ray Knowledge Base | [knowledge_prompt_iu.pkl](https://huggingface.co/ShenshenBu/EKAGen/blob/main/knowledge_prompt_iu.pkl) |
+    | MIMIC-CXR Knowledge Base | [knowledge_prompt_mimic.pkl](https://huggingface.co/ShenshenBu/EKAGen/blob/main/knowledge_prompt_mimic.pkl) |
+    | IU X-Ray ADM | [iu_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_mask.tar.gz) |
+    | MIMIC-CXR ADM | [mimic_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_mask.tar.gz) |
+
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
 
 ## 3) Train Models
