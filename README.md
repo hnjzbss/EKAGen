@@ -33,7 +33,7 @@ Automatic radiology report generation can provide substantial advantages to clin
     | Model | Publicly Available |
     | ----- | ------------------- |
     | DiagnosisBot | [diagnosisbot.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/diagnosisbot.pth) |
-    | ADM Weight | [MIMIC_best_weight.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/MIMIC_best_weight.pth) |
+    | Generate ADM Model Weight | [MIMIC_best_weight.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/MIMIC_best_weight.pth) |
     | IU X-Ray Teacher Model | [iu_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_t_model.pth) |
     | MIMIC-CXR Teacher Model | [mimic_t_model.pth](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_t_model.pth) |
 
