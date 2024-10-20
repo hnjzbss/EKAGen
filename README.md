@@ -15,7 +15,7 @@ Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discr
 
 - Python 3.8.13
 - Pytorch 1.9.0
-- torchvision 0.10.0
+- Torchvision 0.10.0
 - CUDA 11.8
 - NVIDIA RTX 4090
 
