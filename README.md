@@ -18,4 +18,8 @@ Automatic radiology report generation can provide substantial advantages to clin
 - CUDA 11.8
 - NVIDIA RTX 4090
 
+## 2) Data Preperation
+### MIMIC-CXR
+You should get the License first at physionet. Then you can download the original images at [MIMIC-CXR](https://physionet.org/content/mimic-cxr-jpg/2.0.0/).
+   
 Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
