@@ -20,6 +20,8 @@ Automatic radiology report generation can provide substantial advantages to clin
 - CUDA 11.8
 - NVIDIA RTX 4090
 
+----------
+
 ## 2) Data Preperation
 ### MIMIC-CXR
 - You must be a credential user defined in [PhysioNet](https://physionet.org/settings/credentialing/) to access the data.
@@ -27,6 +29,8 @@ Automatic radiology report generation can provide substantial advantages to clin
 
 ### IU X-Ray
 - You can download the processed reports and images for IU X-Ray by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
+
+----------
 
 ## 3) Download Model Weights and Knowledge Base
 * Download the following model weights.
@@ -44,6 +48,8 @@ Automatic radiology report generation can provide substantial advantages to clin
     | MIMIC-CXR Knowledge Base | [knowledge_prompt_mimic.pkl](https://huggingface.co/ShenshenBu/EKAGen/blob/main/knowledge_prompt_mimic.pkl) |
     | IU X-Ray ADM | [iu_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_mask.tar.gz) |
     | MIMIC-CXR ADM | [mimic_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_mask.tar.gz) |
+
+----------
 
 ## 4) Train Models
 
@@ -70,6 +76,8 @@ bash test_iu.sh
 ``` bash
 bash test_mimic.sh
 ```
+
+----------
 
 ## Citation
 
