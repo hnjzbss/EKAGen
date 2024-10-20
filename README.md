@@ -34,7 +34,17 @@ bash train_mimic.sh
 ```
 IU X-Ray
 ``` bash
-bash bash train_iu.sh
+bash train_iu.sh
+```
+
+## 4) Test Models
+MIMIC-CXR
+``` bash
+bash test_mimic.sh
+```
+IU X-Ray
+``` bash
+bash test_iu.sh
 ```
 
 ## Citation
