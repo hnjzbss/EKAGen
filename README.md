@@ -45,26 +45,31 @@ Automatic radiology report generation can provide substantial advantages to clin
     | IU X-Ray ADM | [iu_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_mask.tar.gz) |
     | MIMIC-CXR ADM | [mimic_mask.tar.gz](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_mask.tar.gz) |
 
-Weights and knowledge base data can be downloaded from [Hugging Face](https://huggingface.co/ShenshenBu/EKAGen).
-
 ## 3) Train Models
-MIMIC-CXR
-``` bash
-bash train_mimic.sh
-```
+
 IU X-Ray
 ``` bash
 bash train_iu.sh
 ```
 
-## 4) Test Models
 MIMIC-CXR
 ``` bash
-bash test_mimic.sh
+bash train_mimic.sh
+```
+
+You can also directly download our trained models for inference from [IU X-Ray](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_weight.pth) and [MIMIC-CXR](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_weight.pth).
+
+## 4) Test Models
+
 ```
 IU X-Ray
 ``` bash
 bash test_iu.sh
+```
+
+MIMIC-CXR
+``` bash
+bash test_mimic.sh
 ```
 
 ## Citation
