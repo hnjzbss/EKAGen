@@ -47,7 +47,7 @@ Automatic radiology report generation can provide substantial advantages to clin
 
 ----------
 
-## 4) Train Models
+## 4) Training
 
 ### IU X-Ray
 ``` bash
@@ -59,7 +59,7 @@ bash train_iu.sh
 bash train_mimic.sh
 ```
 
-## 5) Test Models
+## 5) Inference
 
 You can download our trained models for inference from [IU X-Ray](https://huggingface.co/ShenshenBu/EKAGen/blob/main/iu_weight.pth) and [MIMIC-CXR](https://huggingface.co/ShenshenBu/EKAGen/blob/main/mimic_weight.pth).
 
