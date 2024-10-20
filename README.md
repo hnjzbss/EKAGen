@@ -73,8 +73,6 @@ bash test_iu.sh
 bash test_mimic.sh
 ```
 
-----------
-
 ## Citation
 
 If you find this work useful in your research, please cite:
