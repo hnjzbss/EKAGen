@@ -1,5 +1,5 @@
 # EKAGen
-Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)**", Shenshen Bu*, Taiji Li*, Yuedong Yang*, Zhiming Dai*. [**[Video](https://www.youtube.com/watch?v=QbcNQ2zuS-8)**]
+Code for CVPR2024 paper: "**[Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)**", Shenshen Bu, Taiji Li, Yuedong Yang, Zhiming Dai. [**[Video](https://www.youtube.com/watch?v=QbcNQ2zuS-8)**]
 
 
 
