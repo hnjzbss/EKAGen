@@ -20,8 +20,6 @@ Automatic radiology report generation can provide substantial advantages to clin
 - CUDA 11.8
 - NVIDIA RTX 4090
 
-----------
-
 ## 2) Data Preperation
 ### MIMIC-CXR
 - You must be a credential user defined in [PhysioNet](https://physionet.org/settings/credentialing/) to access the data.
@@ -29,8 +27,6 @@ Automatic radiology report generation can provide substantial advantages to clin
 
 ### IU X-Ray
 - You can download the processed reports and images for IU X-Ray by [Chen *et al.*](https://aclanthology.org/2021.acl-long.459.pdf) from [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN).
-
-----------
 
 ## 3) Download Model Weights and Knowledge Base
 * Download the following model weights.
