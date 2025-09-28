@@ -88,4 +88,4 @@ If you find this work useful in your research, please cite:
 
 ## Contact Information
 
-If you have any suggestions or questions, you can contact us by: bushsh@mail2.sysu.edu.cn. Thank you for your attention!
+If you have any suggestions or questions, you can contact us by: bushsh@alumni.sysu.edu.cn. Thank you for your attention!
